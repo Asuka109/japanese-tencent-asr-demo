@@ -1,0 +1,739 @@
+{
+	"TaskId": 940206766,
+	"Status": 2,
+	"StatusStr": "success",
+	"Result": "[0:0.000,0:12.740]  政府の観光支援策交通トラベルについて公明党は来年春の大型連休ゴールデンウィークまで継続するヨウ素が総理大臣に要望。\n[0:12.840,0:38.360]  休日に集中しているウリョウを分散するため，平日の利用法を促進する対応策も検討すべし，と言う事も織り込んで交通トラベルは来年一月に期限が切れた公明党は東京が対象に加わるのが二か月遅れたことなどを踏まえて来年春の大型連休までの延長を求めます。\n[0:38.580,0:52.520]  一方で高校三年生に一律二万円を給付することについては自民党内から異論が噴出したため断念し，別の低所得者への支援策を与党で検討。\n",
+	"ResultDetail": [
+		{
+			"FinalSentence": "政府の観光支援策交通トラベルについて公明党は来年春の大型連休ゴールデンウィークまで継続するヨウ素が総理大臣に要望。",
+			"SliceSentence": "政府 の 観光 支援 策 交通 トラベル について 公明党 は 来年 春 の 大型 連休 ゴールデンウィーク まで 継続 する ヨウ 素 が 総理 大臣 に 要望",
+			"StartMs": 0,
+			"EndMs": 12740,
+			"SpeechSpeed": 6.4,
+			"WordsNum": 26,
+			"Words": [
+				{
+					"OffsetStartMs": 380,
+					"OffsetEndMs": 830,
+					"Word": "政府"
+				},
+				{
+					"OffsetStartMs": 830,
+					"OffsetEndMs": 980,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 980,
+					"OffsetEndMs": 1460,
+					"Word": "観光"
+				},
+				{
+					"OffsetStartMs": 1460,
+					"OffsetEndMs": 1790,
+					"Word": "支援"
+				},
+				{
+					"OffsetStartMs": 1790,
+					"OffsetEndMs": 2150,
+					"Word": "策"
+				},
+				{
+					"OffsetStartMs": 2390,
+					"OffsetEndMs": 2840,
+					"Word": "交通"
+				},
+				{
+					"OffsetStartMs": 2840,
+					"OffsetEndMs": 3290,
+					"Word": "トラベル"
+				},
+				{
+					"OffsetStartMs": 3290,
+					"OffsetEndMs": 3890,
+					"Word": "について"
+				},
+				{
+					"OffsetStartMs": 4160,
+					"OffsetEndMs": 4820,
+					"Word": "公明党"
+				},
+				{
+					"OffsetStartMs": 4820,
+					"OffsetEndMs": 5210,
+					"Word": "は"
+				},
+				{
+					"OffsetStartMs": 5300,
+					"OffsetEndMs": 5810,
+					"Word": "来年"
+				},
+				{
+					"OffsetStartMs": 5810,
+					"OffsetEndMs": 6080,
+					"Word": "春"
+				},
+				{
+					"OffsetStartMs": 6080,
+					"OffsetEndMs": 6080,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 6080,
+					"OffsetEndMs": 6740,
+					"Word": "大型"
+				},
+				{
+					"OffsetStartMs": 6740,
+					"OffsetEndMs": 7250,
+					"Word": "連休"
+				},
+				{
+					"OffsetStartMs": 7550,
+					"OffsetEndMs": 8420,
+					"Word": "ゴールデンウィーク"
+				},
+				{
+					"OffsetStartMs": 8420,
+					"OffsetEndMs": 8690,
+					"Word": "まで"
+				},
+				{
+					"OffsetStartMs": 8690,
+					"OffsetEndMs": 9140,
+					"Word": "継続"
+				},
+				{
+					"OffsetStartMs": 9140,
+					"OffsetEndMs": 9380,
+					"Word": "する"
+				},
+				{
+					"OffsetStartMs": 9380,
+					"OffsetEndMs": 9710,
+					"Word": "ヨウ"
+				},
+				{
+					"OffsetStartMs": 9800,
+					"OffsetEndMs": 10010,
+					"Word": "素"
+				},
+				{
+					"OffsetStartMs": 10010,
+					"OffsetEndMs": 10010,
+					"Word": "が"
+				},
+				{
+					"OffsetStartMs": 10010,
+					"OffsetEndMs": 10460,
+					"Word": "総理"
+				},
+				{
+					"OffsetStartMs": 10460,
+					"OffsetEndMs": 10850,
+					"Word": "大臣"
+				},
+				{
+					"OffsetStartMs": 10850,
+					"OffsetEndMs": 10940,
+					"Word": "に"
+				},
+				{
+					"OffsetStartMs": 10940,
+					"OffsetEndMs": 11330,
+					"Word": "要望"
+				}
+			]
+		},
+		{
+			"FinalSentence": "休日に集中しているウリョウを分散するため，平日の利用法を促進する対応策も検討すべし，と言う事も織り込んで交通トラベルは来年一月に期限が切れた公明党は東京が対象に加わるのが二か月遅れたことなどを踏まえて来年春の大型連休までの延長を求めます。",
+			"SliceSentence": "休日 に 集中 し て いる ウ リ ョ ウ を 分散 する ため 平日 の 利用 法 を 促進 する 対応 策 も 検討 す べし と 言う 事 も 織り込ん で 交通 トラベル は 来年 一 月 に 期限 が 切れ た 公明党 は 東京 が 対象 に 加わる の が 二 か月 遅れ た こと など を 踏まえ て 来年 春 の 大型 連休 まで の 延長 を 求め ます",
+			"StartMs": 12840,
+			"EndMs": 38360,
+			"SpeechSpeed": 7.4,
+			"WordsNum": 73,
+			"Words": [
+				{
+					"OffsetStartMs": 410,
+					"OffsetEndMs": 1040,
+					"Word": "休日"
+				},
+				{
+					"OffsetStartMs": 1040,
+					"OffsetEndMs": 1280,
+					"Word": "に"
+				},
+				{
+					"OffsetStartMs": 1310,
+					"OffsetEndMs": 1730,
+					"Word": "集中"
+				},
+				{
+					"OffsetStartMs": 1730,
+					"OffsetEndMs": 1850,
+					"Word": "し"
+				},
+				{
+					"OffsetStartMs": 1850,
+					"OffsetEndMs": 1850,
+					"Word": "て"
+				},
+				{
+					"OffsetStartMs": 1850,
+					"OffsetEndMs": 2240,
+					"Word": "いる"
+				},
+				{
+					"OffsetStartMs": 2270,
+					"OffsetEndMs": 2330,
+					"Word": "ウ"
+				},
+				{
+					"OffsetStartMs": 2330,
+					"OffsetEndMs": 2330,
+					"Word": "リ"
+				},
+				{
+					"OffsetStartMs": 2330,
+					"OffsetEndMs": 2570,
+					"Word": "ョ"
+				},
+				{
+					"OffsetStartMs": 2570,
+					"OffsetEndMs": 2570,
+					"Word": "ウ"
+				},
+				{
+					"OffsetStartMs": 2570,
+					"OffsetEndMs": 2930,
+					"Word": "を"
+				},
+				{
+					"OffsetStartMs": 3080,
+					"OffsetEndMs": 3560,
+					"Word": "分散"
+				},
+				{
+					"OffsetStartMs": 3560,
+					"OffsetEndMs": 3830,
+					"Word": "する"
+				},
+				{
+					"OffsetStartMs": 3830,
+					"OffsetEndMs": 4190,
+					"Word": "ため"
+				},
+				{
+					"OffsetStartMs": 4400,
+					"OffsetEndMs": 4910,
+					"Word": "平日"
+				},
+				{
+					"OffsetStartMs": 4910,
+					"OffsetEndMs": 5030,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 5030,
+					"OffsetEndMs": 5420,
+					"Word": "利用"
+				},
+				{
+					"OffsetStartMs": 5480,
+					"OffsetEndMs": 5690,
+					"Word": "法"
+				},
+				{
+					"OffsetStartMs": 5690,
+					"OffsetEndMs": 5690,
+					"Word": "を"
+				},
+				{
+					"OffsetStartMs": 5690,
+					"OffsetEndMs": 6530,
+					"Word": "促進"
+				},
+				{
+					"OffsetStartMs": 6530,
+					"OffsetEndMs": 6920,
+					"Word": "する"
+				},
+				{
+					"OffsetStartMs": 7040,
+					"OffsetEndMs": 7430,
+					"Word": "対応"
+				},
+				{
+					"OffsetStartMs": 7430,
+					"OffsetEndMs": 7670,
+					"Word": "策"
+				},
+				{
+					"OffsetStartMs": 7670,
+					"OffsetEndMs": 7670,
+					"Word": "も"
+				},
+				{
+					"OffsetStartMs": 8360,
+					"OffsetEndMs": 8720,
+					"Word": "検討"
+				},
+				{
+					"OffsetStartMs": 8720,
+					"OffsetEndMs": 8870,
+					"Word": "す"
+				},
+				{
+					"OffsetStartMs": 8870,
+					"OffsetEndMs": 9140,
+					"Word": "べし"
+				},
+				{
+					"OffsetStartMs": 9140,
+					"OffsetEndMs": 9170,
+					"Word": "と"
+				},
+				{
+					"OffsetStartMs": 9440,
+					"OffsetEndMs": 9590,
+					"Word": "言う"
+				},
+				{
+					"OffsetStartMs": 9590,
+					"OffsetEndMs": 9860,
+					"Word": "事"
+				},
+				{
+					"OffsetStartMs": 9860,
+					"OffsetEndMs": 9950,
+					"Word": "も"
+				},
+				{
+					"OffsetStartMs": 9950,
+					"OffsetEndMs": 10370,
+					"Word": "織り込ん"
+				},
+				{
+					"OffsetStartMs": 10370,
+					"OffsetEndMs": 10580,
+					"Word": "で"
+				},
+				{
+					"OffsetStartMs": 11930,
+					"OffsetEndMs": 12410,
+					"Word": "交通"
+				},
+				{
+					"OffsetStartMs": 12440,
+					"OffsetEndMs": 12860,
+					"Word": "トラベル"
+				},
+				{
+					"OffsetStartMs": 12860,
+					"OffsetEndMs": 13100,
+					"Word": "は"
+				},
+				{
+					"OffsetStartMs": 13220,
+					"OffsetEndMs": 13730,
+					"Word": "来年"
+				},
+				{
+					"OffsetStartMs": 13730,
+					"OffsetEndMs": 13970,
+					"Word": "一"
+				},
+				{
+					"OffsetStartMs": 13970,
+					"OffsetEndMs": 14240,
+					"Word": "月"
+				},
+				{
+					"OffsetStartMs": 14240,
+					"OffsetEndMs": 14390,
+					"Word": "に"
+				},
+				{
+					"OffsetStartMs": 14390,
+					"OffsetEndMs": 14780,
+					"Word": "期限"
+				},
+				{
+					"OffsetStartMs": 14780,
+					"OffsetEndMs": 14870,
+					"Word": "が"
+				},
+				{
+					"OffsetStartMs": 14870,
+					"OffsetEndMs": 15140,
+					"Word": "切れ"
+				},
+				{
+					"OffsetStartMs": 15140,
+					"OffsetEndMs": 15140,
+					"Word": "た"
+				},
+				{
+					"OffsetStartMs": 16190,
+					"OffsetEndMs": 16760,
+					"Word": "公明党"
+				},
+				{
+					"OffsetStartMs": 16760,
+					"OffsetEndMs": 17120,
+					"Word": "は"
+				},
+				{
+					"OffsetStartMs": 17180,
+					"OffsetEndMs": 17690,
+					"Word": "東京"
+				},
+				{
+					"OffsetStartMs": 17690,
+					"OffsetEndMs": 17810,
+					"Word": "が"
+				},
+				{
+					"OffsetStartMs": 17810,
+					"OffsetEndMs": 18260,
+					"Word": "対象"
+				},
+				{
+					"OffsetStartMs": 18260,
+					"OffsetEndMs": 18410,
+					"Word": "に"
+				},
+				{
+					"OffsetStartMs": 18410,
+					"OffsetEndMs": 18860,
+					"Word": "加わる"
+				},
+				{
+					"OffsetStartMs": 18860,
+					"OffsetEndMs": 18980,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 18980,
+					"OffsetEndMs": 18980,
+					"Word": "が"
+				},
+				{
+					"OffsetStartMs": 19370,
+					"OffsetEndMs": 19520,
+					"Word": "二"
+				},
+				{
+					"OffsetStartMs": 19520,
+					"OffsetEndMs": 19910,
+					"Word": "か月"
+				},
+				{
+					"OffsetStartMs": 19910,
+					"OffsetEndMs": 20270,
+					"Word": "遅れ"
+				},
+				{
+					"OffsetStartMs": 20270,
+					"OffsetEndMs": 20390,
+					"Word": "た"
+				},
+				{
+					"OffsetStartMs": 20390,
+					"OffsetEndMs": 20630,
+					"Word": "こと"
+				},
+				{
+					"OffsetStartMs": 20630,
+					"OffsetEndMs": 20840,
+					"Word": "など"
+				},
+				{
+					"OffsetStartMs": 20840,
+					"OffsetEndMs": 20840,
+					"Word": "を"
+				},
+				{
+					"OffsetStartMs": 20840,
+					"OffsetEndMs": 21350,
+					"Word": "踏まえ"
+				},
+				{
+					"OffsetStartMs": 21350,
+					"OffsetEndMs": 21350,
+					"Word": "て"
+				},
+				{
+					"OffsetStartMs": 21980,
+					"OffsetEndMs": 22430,
+					"Word": "来年"
+				},
+				{
+					"OffsetStartMs": 22430,
+					"OffsetEndMs": 22700,
+					"Word": "春"
+				},
+				{
+					"OffsetStartMs": 22700,
+					"OffsetEndMs": 22700,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 22700,
+					"OffsetEndMs": 23330,
+					"Word": "大型"
+				},
+				{
+					"OffsetStartMs": 23330,
+					"OffsetEndMs": 23720,
+					"Word": "連休"
+				},
+				{
+					"OffsetStartMs": 23720,
+					"OffsetEndMs": 23960,
+					"Word": "まで"
+				},
+				{
+					"OffsetStartMs": 23960,
+					"OffsetEndMs": 24050,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 24050,
+					"OffsetEndMs": 24440,
+					"Word": "延長"
+				},
+				{
+					"OffsetStartMs": 24440,
+					"OffsetEndMs": 24560,
+					"Word": "を"
+				},
+				{
+					"OffsetStartMs": 24560,
+					"OffsetEndMs": 24890,
+					"Word": "求め"
+				},
+				{
+					"OffsetStartMs": 24890,
+					"OffsetEndMs": 25190,
+					"Word": "ます"
+				}
+			]
+		},
+		{
+			"FinalSentence": "一方で高校三年生に一律二万円を給付することについては自民党内から異論が噴出したため断念し，別の低所得者への支援策を与党で検討。",
+			"SliceSentence": "一方 で 高校 三 年 生 に 一律 二 万 円 を 給付 する こと について は 自民党 内 から 異論 が 噴出 し た ため 断念 し 別 の 低 所得 者 へ の 支援 策 を 与党 で 検討",
+			"StartMs": 38580,
+			"EndMs": 52520,
+			"SpeechSpeed": 7.3,
+			"WordsNum": 41,
+			"Words": [
+				{
+					"OffsetStartMs": 170,
+					"OffsetEndMs": 620,
+					"Word": "一方"
+				},
+				{
+					"OffsetStartMs": 620,
+					"OffsetEndMs": 620,
+					"Word": "で"
+				},
+				{
+					"OffsetStartMs": 1100,
+					"OffsetEndMs": 1580,
+					"Word": "高校"
+				},
+				{
+					"OffsetStartMs": 1580,
+					"OffsetEndMs": 1850,
+					"Word": "三"
+				},
+				{
+					"OffsetStartMs": 1850,
+					"OffsetEndMs": 2030,
+					"Word": "年"
+				},
+				{
+					"OffsetStartMs": 2030,
+					"OffsetEndMs": 2270,
+					"Word": "生"
+				},
+				{
+					"OffsetStartMs": 2270,
+					"OffsetEndMs": 2510,
+					"Word": "に"
+				},
+				{
+					"OffsetStartMs": 2600,
+					"OffsetEndMs": 3170,
+					"Word": "一律"
+				},
+				{
+					"OffsetStartMs": 3170,
+					"OffsetEndMs": 3290,
+					"Word": "二"
+				},
+				{
+					"OffsetStartMs": 3290,
+					"OffsetEndMs": 3530,
+					"Word": "万"
+				},
+				{
+					"OffsetStartMs": 3530,
+					"OffsetEndMs": 3710,
+					"Word": "円"
+				},
+				{
+					"OffsetStartMs": 3710,
+					"OffsetEndMs": 3830,
+					"Word": "を"
+				},
+				{
+					"OffsetStartMs": 3860,
+					"OffsetEndMs": 4160,
+					"Word": "給付"
+				},
+				{
+					"OffsetStartMs": 4160,
+					"OffsetEndMs": 4370,
+					"Word": "する"
+				},
+				{
+					"OffsetStartMs": 4370,
+					"OffsetEndMs": 4610,
+					"Word": "こと"
+				},
+				{
+					"OffsetStartMs": 4610,
+					"OffsetEndMs": 5090,
+					"Word": "について"
+				},
+				{
+					"OffsetStartMs": 5090,
+					"OffsetEndMs": 5540,
+					"Word": "は"
+				},
+				{
+					"OffsetStartMs": 5600,
+					"OffsetEndMs": 6170,
+					"Word": "自民党"
+				},
+				{
+					"OffsetStartMs": 6170,
+					"OffsetEndMs": 6410,
+					"Word": "内"
+				},
+				{
+					"OffsetStartMs": 6410,
+					"OffsetEndMs": 6620,
+					"Word": "から"
+				},
+				{
+					"OffsetStartMs": 6620,
+					"OffsetEndMs": 6980,
+					"Word": "異論"
+				},
+				{
+					"OffsetStartMs": 6980,
+					"OffsetEndMs": 6980,
+					"Word": "が"
+				},
+				{
+					"OffsetStartMs": 6980,
+					"OffsetEndMs": 7550,
+					"Word": "噴出"
+				},
+				{
+					"OffsetStartMs": 7550,
+					"OffsetEndMs": 7700,
+					"Word": "し"
+				},
+				{
+					"OffsetStartMs": 7700,
+					"OffsetEndMs": 7700,
+					"Word": "た"
+				},
+				{
+					"OffsetStartMs": 7700,
+					"OffsetEndMs": 8210,
+					"Word": "ため"
+				},
+				{
+					"OffsetStartMs": 8450,
+					"OffsetEndMs": 8930,
+					"Word": "断念"
+				},
+				{
+					"OffsetStartMs": 8930,
+					"OffsetEndMs": 9200,
+					"Word": "し"
+				},
+				{
+					"OffsetStartMs": 9500,
+					"OffsetEndMs": 9830,
+					"Word": "別"
+				},
+				{
+					"OffsetStartMs": 9830,
+					"OffsetEndMs": 10010,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 10010,
+					"OffsetEndMs": 10280,
+					"Word": "低"
+				},
+				{
+					"OffsetStartMs": 10280,
+					"OffsetEndMs": 10640,
+					"Word": "所得"
+				},
+				{
+					"OffsetStartMs": 10640,
+					"OffsetEndMs": 10790,
+					"Word": "者"
+				},
+				{
+					"OffsetStartMs": 10790,
+					"OffsetEndMs": 10880,
+					"Word": "へ"
+				},
+				{
+					"OffsetStartMs": 10880,
+					"OffsetEndMs": 10880,
+					"Word": "の"
+				},
+				{
+					"OffsetStartMs": 10880,
+					"OffsetEndMs": 11360,
+					"Word": "支援"
+				},
+				{
+					"OffsetStartMs": 11360,
+					"OffsetEndMs": 11630,
+					"Word": "策"
+				},
+				{
+					"OffsetStartMs": 11630,
+					"OffsetEndMs": 11780,
+					"Word": "を"
+				},
+				{
+					"OffsetStartMs": 11780,
+					"OffsetEndMs": 12200,
+					"Word": "与党"
+				},
+				{
+					"OffsetStartMs": 12200,
+					"OffsetEndMs": 12320,
+					"Word": "で"
+				},
+				{
+					"OffsetStartMs": 12320,
+					"OffsetEndMs": 12740,
+					"Word": "検討"
+				}
+			]
+		}
+	],
+	"ErrorMsg": ""
+}
